@@ -1,4 +1,3 @@
-
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="utf-8" />
@@ -214,10 +213,10 @@
             <span>بدّل الروابط بصورك</span>
           </div>
           <div class="grid4">
-            <img src="12qaidi.jpeg" alt="صورة الساعة" />
-            <img src="123qaidi.jpeg" alt="محتويات العلبة 1" />
-            <img src="1234qaidi.jpeg" alt="محتويات العلبة 2" />
-            <img src="12345qaidi.jpeg" alt="واجهة العلبة" />
+            <img src="./watch.jpeg" alt="صورة الساعة" />
+            <img src="./123qaidi.jpeg" alt="محتويات العلبة 1" />
+            <img src="./1234qaidi.jpeg" alt="محتويات العلبة 2" />
+            <img src="./12345qaidi.jpeg" alt="واجهة العلبة" />
           </div>
         </div>
       </div>
